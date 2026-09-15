@@ -1,12 +1,14 @@
 cv:
   name: Rupom Saha
-  label: Mechatronics Engineer
-  email: rupom.saha@outlook.com
-  summary: A passionate Mechatronics Engineer with a strong background in robotics, automation, and control systems. Skilled in designing and implementing embedded systems, programming, and problem-solving.
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
+  image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: RupomSaha
+      username: AlbertEinstein
     - network: GitHub
       username: example
     - network: LinkedIn
