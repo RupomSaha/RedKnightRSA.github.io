@@ -26,14 +26,14 @@ cv:
       - institution: University of Zurich
         location: Zurich, Switzerland
         url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        area: Mechatronics
+        studyType: Bachelor of Engineering
+        start_date: 2020
+        end_date: 2025
         score: ""
         courses: "Theory of Relativity"
         highlights:
-          - Description 1.
+          - Description.
           - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
