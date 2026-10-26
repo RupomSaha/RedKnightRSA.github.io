@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Mechatronics Engineer &middot; Automation &amp; Control Systems
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>BSc Mechatronics (Honours), University of Newcastle</p>
+    <p>Newcastle, NSW, Australia</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # no publications yet
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # turned off until you add your own news items
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # turned off until you write your own posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Rupom. I'm a graduate engineer with a Bachelor of Science in Mechatronics (with Honours) from the University of Newcastle, and I'm looking for my first role in automation and control systems engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My background sits where mechanical, electrical and software engineering meet. I enjoy PLC programming, HMI design, control loop tuning, and building embedded and robotic systems. I also work with simulation and modelling in MATLAB, and write code in Python and C++.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before finishing my degree I worked as an Assistant Engineer at Nortex Textile Mills in Bangladesh. There I monitored factory sensors, helped build automated maintenance processes that use machine learning to predict and prevent production downtime, and recommended upgrades to the plant's fire safety systems.
+
+Outside of engineering, I've volunteered at University of Newcastle events and raised funds with the JAAGO Foundation to build and renovate schools in rural Bangladesh. I speak English, Bengali, Hindi and Urdu, and I'm learning Japanese and AUSLAN.
+
+If you'd like to talk about a role or a project, you can reach me through the links below, and my [CV](/cv/) has the full details.
